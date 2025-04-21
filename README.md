@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peter
+- 👋 Hi, I’m @
 - 👀 I’m interested in digital circuts design, programming microcontrollers etc. 
 - 🌱 I’m currently learning Verilog, C++, C, Assembly, EAGLE/Multisim, Fusion360, TIA portal 
 - 💞️ I’m looking to collaborate on ...
